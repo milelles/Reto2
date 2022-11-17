@@ -11,3 +11,4 @@ Jeremias Pajaro Peña
 
 (Los otros compañeros no manifestaron interes en participar en el proyecto)
 
+![App carrito de compras] (https://user-images.githubusercontent.com/113055638/202529788-e977e8ba-4845-4de9-a773-943c6b600e70.mp4)
