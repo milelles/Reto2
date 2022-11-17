@@ -10,5 +10,6 @@ Carlos Rios Mendoza
 Jeremias Pajaro Peña
 
 (Los otros compañeros no manifestaron interes en participar en el proyecto)
+# Demo App carrito de compras
 
 ![Reto2](https://user-images.githubusercontent.com/113055638/202530608-e602e990-6a7d-4710-b033-a80522ae06d9.gif)
